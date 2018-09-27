@@ -18,6 +18,11 @@ h6 {
   font-family: 'Montserrat';
 }
 
+
+img.img-thumbnail{
+	margin: 2;
+}
+
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
