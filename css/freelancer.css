@@ -395,7 +395,7 @@ a:focus, a:hover, a:active {
 
 .menu-button{
   background: #772200;
-  border: none;
+  border: #fff;
 }
 
 .menu-button:hover{
