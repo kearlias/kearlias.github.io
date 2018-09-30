@@ -345,12 +345,12 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #;
+  color: #fff;
 
 }
 
 a:focus, a:hover, a:active {
-  color: #;
+  color: #dd4000;
 }
 
 .btn {
