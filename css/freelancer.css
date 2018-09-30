@@ -20,7 +20,11 @@ h6 {
 
 
 img.img-container{
-	margin-bottom: 20px;
+  margin: 0 auto 20px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
 }
 
 hr.star-light,
