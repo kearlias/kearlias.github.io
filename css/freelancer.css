@@ -336,12 +336,12 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #a32310;
+  background-color: #992200;
   color: #fff;
 }
 
 .copyright {
-  background-color: #9e1906;
+  background-color: #772200;
 }
 
 a {
@@ -361,7 +361,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-secondary {
-  background-color: #9e1906 !important;
+  background-color: #772200 !important;
 }
 
 .text-primary {
@@ -369,7 +369,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-secondary {
-  color: #9e1906 !important;
+  color: #772200 !important;
 }
 
 .btn-primary {
