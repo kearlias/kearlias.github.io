@@ -62,11 +62,11 @@ hr.star-light:after {
 }
 
 hr.star-dark {
-  border-color: #2C3E50;
+  border-color: #772200;
 }
 
 hr.star-dark:after {
-  color: #2C3E50;
+  color: #772200;
   background-color: white;
 }
 
