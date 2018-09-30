@@ -392,3 +392,12 @@ a:focus, a:hover, a:active {
   background-color: #772200;
   border-color: #ffffff;
 }
+
+.menu-button{
+  background: #772200;
+  border: none;
+}
+
+.menu-button:hover{
+  background: #ff5400;
+}
