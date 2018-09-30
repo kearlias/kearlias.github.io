@@ -356,11 +356,15 @@ a:focus, a:hover, a:active {
 .btn {
   border-width: 2px;
 }
-
+/*
 .bg-primary {
   background-color: #dd4000 !important;
 }
+*/
 
+.bg-custom{
+  background-color: #dd4000
+}
 .bg-secondary {
   background-color: #772200 !important;
 }
