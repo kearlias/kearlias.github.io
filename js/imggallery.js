@@ -3,7 +3,7 @@ var modal = 0;
 showDivs(slideIndex, modal);
 
 function plusDivs(n,m) {
-    modal = m;
+
     showDivs(slideIndex += n,m);
 }
 
@@ -13,6 +13,7 @@ function resetDivs(){
 }
 
 function showDivs(n , m) {
+    modal = m;
     var i;
     var y = document.getElementsByClassName("modal"+m);
     var x = document.getElementsByClassName("mySlides");
