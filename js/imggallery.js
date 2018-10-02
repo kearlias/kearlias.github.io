@@ -1,4 +1,5 @@
 var slideIndex = 1;
+var modal = 0;
 showDivs(slideIndex, modal);
 
 function plusDivs(n,m) {
